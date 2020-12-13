@@ -306,7 +306,7 @@ footer {
     border-left: 1px solid;
 }
 
-..timeline-item p {
+.timeline-item p {
     padding: 0;
     margin: 0;
 }
